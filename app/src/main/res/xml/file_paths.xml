@@ -1,0 +1,8 @@
+<paths>
+    <external-path
+        name="user_image"
+        path="Android/data/com.example.yk/files/Pictures" />
+    <files-path
+        name="user_image_internal"
+        path="/" />
+</paths>

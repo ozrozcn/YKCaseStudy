@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428818774635",
+    "firebase_url": "https://ex-yk-da16a.firebaseio.com",
+    "project_id": "ex-yk-da16a",
+    "storage_bucket": "ex-yk-da16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428818774635:android:c2f1df51adc551d6a64f2e",
+        "android_client_info": {
+          "package_name": "com.example.yk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428818774635-im3ddppvv7522faamjhhelgval63c5rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEy6D3GfunTHSTPIcD_bf23JizWfwv4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428818774635-im3ddppvv7522faamjhhelgval63c5rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

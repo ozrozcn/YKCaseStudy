@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YK</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_surname">Surname</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="alert_title">Alert</string>
+    <string name="ok">OK</string>
+    <string name="action_save">Save</string>
+    <string name="screen_register">Register</string>
+    <string name="screen_profile">Profile</string>
+    <string name="screen_login">Login</string>
+    <string name="action_delete_account">Delete Account</string>
+</resources>

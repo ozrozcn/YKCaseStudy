@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.example.yk.ui.splash.SplashViewModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="24dp"
+        tools:context=".ui.splash.SplashActivity">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/signIn"
+            android:layout_width="match_parent"
+            android:text="@string/action_sign_in"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toTopOf="@id/signUp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/signUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/action_sign_up"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>
